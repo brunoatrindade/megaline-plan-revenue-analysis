@@ -8,12 +8,6 @@ Nesse projeto eu sou o analista da empresa de telecomunicações Megaline. O dep
 Eu realizo uma análise preliminar dos planos com base em uma pequena seleção de clientes da Megaline: que clientes são, de onde eles são, qual plano usam e o número de chamadas e mensagens realizadas em um ano. Meu trabalho é analisar o comportamento dos clientes e determinar qual plano pré-pago gera mais receita.
 Os resultados obtidos podem auxiliar a empresa na **alocação estratégica de recursos de marketing e tomada de decisão comercial**.
 
-As etapas principais incluem: 
-1)Preparação dos dados (carregamento, inspeção e tratamento de inconsistências); 
-2)Análise exploratória (descrição estatística do uso dos serviços por plano); 
-3)Cálculo de receita (mensuração da receita individual e comparação entre os planos); 
-4)Testes estatísticos (verificação de diferenças significativas no faturamento); e por fim 
-5)Conclusões (interpretação dos resultados e recomendações para o negócio).
 ---
 
 ## 🔍 Sobre os Dados
