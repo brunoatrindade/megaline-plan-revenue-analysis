@@ -1,6 +1,6 @@
 # Megaline Revenue Analysis
 
-### 📊 Análise Estatística de Dados - Receita dos Planos Pré-Pagos Surf e Ultimate da empresa Megaline
+### Análise Estatística de Dados - Receita dos Planos Pré-Pagos Surf e Ultimate da empresa Megaline
 
 Este projeto tem como objetivo analisar o comportamento de clientes da operadora de telecomunicações Megaline, com foco em identificar qual dos dois planos pré-pagos — **Surf** ou **Ultimate** — gera maior receita para o negócio.
 Nesse projeto eu sou o analista da empresa de telecomunicações Megaline. O departamento comercial quer saber qual dos planos gera mais receita para ajustar o orçamento de publicidade.
@@ -10,9 +10,8 @@ Os resultados obtidos podem auxiliar a empresa na **alocação estratégica de r
 
 ---
 
-## 🔍 Sobre os Dados
+## Sobre os Dados
 - Amostra de **500 clientes**
-- Período: **2018**
 - Informações disponíveis:
   - Número de chamadas
   - Duração das ligações
@@ -23,18 +22,18 @@ Os resultados obtidos podem auxiliar a empresa na **alocação estratégica de r
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 - Python
 - Jupyter Notebook
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- SciPy (para testes estatísticos, se aplicável)
+- SciPy (para testes estatísticos)
 
 ---
 
-## 📌 Etapas do projeto
+## Etapas do projeto
 
 1. **Preparação dos dados**
    - Carregamento
@@ -64,7 +63,7 @@ Os resultados obtidos podem auxiliar a empresa na **alocação estratégica de r
    Sobre a região New York-New Jersey (NY-NJ) exige ações específicas para elevar a receita média e reduzir a distância em relação às demais regiões.
 ---
 
-## 📈 Principais Resultados - Hipóteses
+## Principais Resultados - Hipóteses
 Durante a análise, conduzi dois testes de hipótese voltados para avaliar diferenças significativas na receita média dos usuários. 
 Minhas conclusões foram apresentadas de forma analítica e comparativa. 
 Na primeira hipótese sobre a comparação geral dos planos Surf e Ultimate (Estatística t = -10,49, p-valor ≈ 4,88e-25) o resultado foi altamente significativo (p < 0,05), indicando que a diferença de receita média entre os grupos analisados não pode ser atribuída ao caso. 
