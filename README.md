@@ -1,6 +1,5 @@
-# Megaline Revenue Analysis
 
-### Análise Estatística de Dados - Receita dos Planos Pré-Pagos Surf e Ultimate da empresa Megaline
+# Análise Estatística de Dados. Receitas de dois Planos Pré-Pagos (Surf e Ultimate) da empresa Megaline de telecomunicações.
 
 Este projeto tem como objetivo analisar o comportamento de clientes da operadora de telecomunicações Megaline, com foco em identificar qual dos dois planos pré-pagos — **Surf** ou **Ultimate** — gera maior receita para o negócio.
 Nesse projeto eu sou o analista da empresa de telecomunicações Megaline. O departamento comercial quer saber qual dos planos gera mais receita para ajustar o orçamento de publicidade.
